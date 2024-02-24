@@ -1,0 +1,11 @@
+# Main build folder
+main
+
+# Other build folders
+src/build
+src/dist
+
+# Spec file (I don't know what is it)
+src/main.spec
+
+
