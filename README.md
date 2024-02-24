@@ -14,7 +14,7 @@ sh build
 ```
 
 ## Usage
-Create `*.math` file and write codes into this.<br>
+Create `index.math` file and write codes into this.<br>
 An example code:
 
 ```rust
@@ -25,4 +25,8 @@ print("Hi mom!")
 }
 ```
 
-So, you can use every Python standart commands in this file.
+So, you can use every Python standart commands in this file. And for run this file write this code into your terminal:
+
+```bash
+./main/main index.math
+```
