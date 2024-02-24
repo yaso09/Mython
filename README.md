@@ -32,4 +32,7 @@ So, you can use every (one line) Python standart commands in this file. And for 
 ```
 
 ## Special Syntax
-Empty
+Here empty
+
+## License
+This project licensed under the LQL-1.0 license. For more information see [here](LICENSE).
