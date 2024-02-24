@@ -25,8 +25,11 @@ print("Hi mom!")
 }
 ```
 
-So, you can use every Python standart commands in this file. And for run this file write this code into your terminal:
+So, you can use every (one line) Python standart commands in this file. And for run this file write this code into your terminal:
 
 ```bash
 ./main/main index.math
 ```
+
+## Special Syntax
+Empty
